@@ -1,6 +1,6 @@
-# 🌟 Soroswap Frontend @ Soroban Preview 10🌟
+# 🌟 Zig3-Soroswap Frontend @ Soroban Preview 10🌟
 
-Welcome to Soroswap, a decentralized exchange (DEX) that draws inspiration from the Uniswap V2 protocol and is specifically tailored for the Soroban network.
+Welcome to Zig3-Soroswap, a decentralized exchange (DEX) that draws inspiration from the Uniswap V2 protocol and is specifically tailored for the Soroban network. First a big thanks to the soroswap team great. This is the Soroswap dapp adapted to introduce more smart contracts for more utility, and our up and coming Zi Airdrop built with three.js and soroban.
 
 Before you begin, ensure you have met the following requirements:
 
@@ -13,7 +13,7 @@ Before you begin, ensure you have met the following requirements:
 
     ```bash
 
-    git clone https://github.com/soroswap/frontend.git
+    git clone https://github.com/Nathanofzion/Zig3-Soroswap.git
     cd frontend
     ```
 
