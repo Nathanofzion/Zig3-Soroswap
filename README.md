@@ -65,7 +65,7 @@ Before you begin, ensure you have met the following requirements:
 
 4. Install the Dependencies
 
-    After the Docker container is up, you will be inside the root folder on the container. Then, install the dependencies using Yarn:
+    After the Docker container is up, you will be inside the root folder on the container. Then, install the dependencies using Yarn (make sure to use node v18.17.0):
 
     ```bash
     yarn install
