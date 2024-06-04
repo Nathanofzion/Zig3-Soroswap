@@ -14,7 +14,8 @@ Before you begin, ensure you have met the following requirements:
     ```bash
 
     git clone https://github.com/Nathanofzion/Zig3-Soroswap.git
-    cd frontend
+    (if your not in the root)
+    cd Zig3-Soroswap
     ```
 
 2. Set Up Environment Variables
